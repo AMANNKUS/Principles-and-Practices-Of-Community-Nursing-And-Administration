@@ -1392,4 +1392,1139 @@ const questions = [
     C: "Remove the register from the health worker and stop child welfare services for the day: This would interrupt service delivery and does not solve the documentation problem."
   }
 },
+{
+  question: "A Community Health Officer realizes that teenage pregnancy is increasing in her CHPS zone. What should be her first action before planning an intervention?",
+  options: {
+    A: "Conduct a needs assessment to identify the causes of the problem.",
+    B: "Start giving contraceptives to all adolescent girls in the community.",
+    C: "Report all pregnant teenagers to the traditional leaders."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Before planning any community health intervention, the health worker must first assess the problem. A needs assessment helps identify the causes, affected groups, available resources, and possible solutions.",
+  rationalesIncorrect: {
+    B: "Start giving contraceptives to all adolescent girls in the community: This is not the first action. The health worker must first understand the problem and provide appropriate education and counselling.",
+    C: "Report all pregnant teenagers to the traditional leaders: This may create stigma and fear. It does not help identify the causes of teenage pregnancy or solve the problem professionally."
+  }
+},
+
+{
+  question: "During an immunisation session, a nurse reconstituted measles vaccine but some doses remained unused at the end of the session. What should the nurse do?",
+  options: {
+    A: "Keep the remaining vaccine in the refrigerator for the next session.",
+    B: "Discard the reconstituted vaccine safely at the end of the session.",
+    C: "Mix it with another vial to avoid wastage."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Reconstituted measles vaccine must be discarded at the end of the immunisation session or after the recommended period because it can lose potency and become unsafe for use.",
+  rationalesIncorrect: {
+    A: "Keep the remaining vaccine in the refrigerator for the next session: Reconstituted measles vaccine should not be stored for future use.",
+    C: "Mix it with another vial to avoid wastage: Vaccines should never be mixed unless specifically instructed by the manufacturer. This can make the vaccine unsafe or ineffective."
+  }
+},
+
+{
+  question: "A Public Health Nurse receives a report of several people in a community passing profuse watery stool after eating at a funeral. What is the most appropriate immediate public health action?",
+  options: {
+    A: "Notify the District Health Management Team and begin investigation.",
+    B: "Wait for laboratory confirmation before taking any action.",
+    C: "Advise the community to stop all funerals permanently."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Profuse watery diarrhoea affecting several people may suggest an outbreak such as cholera or food poisoning. The nurse should report immediately and begin public health investigation and control measures.",
+  rationalesIncorrect: {
+    B: "Wait for laboratory confirmation before taking any action: Waiting can delay outbreak control and allow the disease to spread.",
+    C: "Advise the community to stop all funerals permanently: This is not practical or professional. The focus should be on investigation, hygiene education, safe food handling, and outbreak control."
+  }
+},
+
+{
+  question: "During a postnatal home visit, a mother complains of fever, lower abdominal pain, and foul-smelling lochia. What should the community health nurse do?",
+  options: {
+    A: "Reassure her that it is a normal postnatal change.",
+    B: "Refer her immediately to a health facility for further management.",
+    C: "Advise her to drink more water and rest at home."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Fever, lower abdominal pain, and foul-smelling lochia are danger signs of puerperal infection. The mother needs urgent assessment and treatment at a health facility.",
+  rationalesIncorrect: {
+    A: "Reassure her that it is a normal postnatal change: These symptoms are not normal and may indicate serious infection.",
+    C: "Advise her to drink more water and rest at home: Rest and fluids alone will not treat a possible puerperal infection."
+  }
+},
+
+{
+  question: "A 38-year-old woman with poorly controlled hypertension comes for family planning and requests combined oral contraceptive pills. What is the best advice?",
+  options: {
+    A: "Give her combined oral pills because she requested them.",
+    B: "Counsel her on safer non-oestrogen methods such as IUCD.",
+    C: "Tell her family planning is not suitable for women with hypertension."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Combined oral contraceptives contain oestrogen, which can increase cardiovascular risk in women with uncontrolled hypertension. A safer option such as IUCD should be discussed.",
+  rationalesIncorrect: {
+    A: "Give her combined oral pills because she requested them: Client preference is important, but safety must also be considered. Combined pills may not be safe for her condition.",
+    C: "Tell her family planning is not suitable for women with hypertension: This is wrong. Women with hypertension can use family planning, but they need safer methods."
+  }
+},
+
+{
+  question: "During school health screening, a pupil is unable to read the Snellen chart clearly. What should the school health nurse do?",
+  options: {
+    A: "Refer the child for proper eye examination and inform the parent or guardian.",
+    B: "Ignore it because poor vision does not affect school performance.",
+    C: "Tell the teacher to move the child to the back of the class."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Poor vision can affect learning and school performance. The child should be referred for further eye assessment, and the parent or guardian should be informed.",
+  rationalesIncorrect: {
+    B: "Ignore it because poor vision does not affect school performance: Poor vision can seriously affect reading, writing, and learning.",
+    C: "Tell the teacher to move the child to the back of the class: Moving the child to the back will worsen the problem. The child may need to sit closer while awaiting proper assessment."
+  }
+},
+
+{
+  question: "A nurse manager notices that staff morale is low because workers feel their views are not considered during decision-making. Which action will best improve staff motivation?",
+  options: {
+    A: "Involve staff in discussions and allow them to contribute ideas.",
+    B: "Make all decisions alone to avoid wasting time.",
+    C: "Threaten staff with punishment if they complain again."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Staff are more motivated when they feel respected and involved. Allowing staff to contribute ideas promotes teamwork, commitment, and better decision-making.",
+  rationalesIncorrect: {
+    B: "Make all decisions alone to avoid wasting time: This may reduce staff motivation and make workers feel ignored.",
+    C: "Threaten staff with punishment if they complain again: Threats can create fear, poor relationships, and low productivity."
+  }
+},
+{
+  question: "During child welfare clinic, a nurse notices that a 10-month-old child’s weight has remained the same for two consecutive visits. What should the nurse do first?",
+  options: {
+    A: "Counsel the mother on feeding practices and assess for possible illness.",
+    B: "Tell the mother the child is naturally small and should not worry.",
+    C: "Refer the child immediately for hospital admission without assessment."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Failure to gain weight may be due to poor feeding, illness, or inadequate care. The nurse should first assess the child and counsel the mother on appropriate feeding and care.",
+  rationalesIncorrect: {
+    B: "Tell the mother the child is naturally small and should not worry: This may delay early intervention. Poor weight gain should always be assessed.",
+    C: "Refer the child immediately for hospital admission without assessment: Referral may be needed if danger signs are present, but the nurse should first assess the child."
+  }
+},
+
+{
+  question: "A 2-year-old child is brought to the clinic with cough. The child’s respiratory rate is 45 breaths per minute. Using IMCI guidelines, how should this breathing be classified?",
+  options: {
+    A: "Normal breathing",
+    B: "Fast breathing",
+    C: "Slow breathing"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "For a child aged 12 months to 5 years, fast breathing is 40 breaths per minute or more. Since the child’s respiratory rate is 45 breaths per minute, it is classified as fast breathing.",
+  rationalesIncorrect: {
+    A: "Normal breathing: A respiratory rate of 45/minute is above the normal IMCI cut-off for this age group.",
+    C: "Slow breathing: The child’s breathing is not slow; it is faster than expected."
+  }
+},
+
+{
+  question: "During a cold chain inspection, a Community Health Nurse finds that some pentavalent vaccines were frozen overnight. What should the nurse do?",
+  options: {
+    A: "Use the vaccines quickly before they expire.",
+    B: "Keep the vaccines for the next outreach session.",
+    C: "Remove them from use and report for appropriate action."
+  },
+  correctAnswer: "C",
+  rationaleCorrect: "Some vaccines, such as pentavalent vaccine, are damaged by freezing. If they are suspected to have frozen, they should not be used until proper assessment and action are taken.",
+  rationalesIncorrect: {
+    A: "Use the vaccines quickly before they expire: Expiry date does not matter if the vaccine has been damaged by freezing.",
+    B: "Keep the vaccines for the next outreach session: Keeping them for later may expose children to ineffective vaccines."
+  }
+},
+
+{
+  question: "A pregnant woman at 34 weeks’ gestation reports severe headache, blurred vision, and swelling of the face. What should the nurse do?",
+  options: {
+    A: "Reassure her that these are normal symptoms of late pregnancy.",
+    B: "Refer her urgently to a health facility for assessment and management.",
+    C: "Advise her to reduce salt intake and return after one month."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Severe headache, blurred vision, and facial swelling in pregnancy are danger signs that may suggest pre-eclampsia. The woman needs urgent assessment and management.",
+  rationalesIncorrect: {
+    A: "Reassure her that these are normal symptoms of late pregnancy: These symptoms are not normal and may indicate a serious complication.",
+    C: "Advise her to reduce salt intake and return after one month: This delays care and may put the mother and baby at risk."
+  }
+},
+
+{
+  question: "A breastfeeding mother wants to use Lactational Amenorrhea Method, but she gives the baby water and porridge in addition to breast milk. What should the nurse explain?",
+  options: {
+    A: "LAM is still fully effective as long as she breastfeeds once daily.",
+    B: "LAM may not be reliable because breastfeeding is not exclusive.",
+    C: "LAM is effective even after menstruation has returned."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "LAM works best when the baby is less than 6 months old, the mother’s menses has not returned, and breastfeeding is exclusive. Giving water and porridge reduces the reliability of LAM.",
+  rationalesIncorrect: {
+    A: "LAM is still fully effective as long as she breastfeeds once daily: LAM requires frequent and exclusive breastfeeding, not once-daily breastfeeding.",
+    C: "LAM is effective even after menstruation has returned: Once menstruation returns, LAM is no longer reliable."
+  }
+},
+
+{
+  question: "A community leader tells parents not to send their children for immunisation because he believes vaccines cause infertility. What should the Community Health Nurse do?",
+  options: {
+    A: "Engage the leader and community members through respectful health education.",
+    B: "Ignore the leader and continue immunising only those who come.",
+    C: "Report the leader to the police immediately."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Rumours about vaccines should be addressed through respectful communication, education, and involvement of trusted community members. This helps build trust and correct misinformation.",
+  rationalesIncorrect: {
+    B: "Ignore the leader and continue immunising only those who come: Ignoring the concern may allow the rumour to spread further.",
+    C: "Report the leader to the police immediately: This may create resistance and fear. Education and dialogue should come first."
+  }
+},
+
+{
+  question: "A man reports cough for three weeks, weight loss, night sweats, and fever. What should the nurse suspect first?",
+  options: {
+    A: "Pulmonary tuberculosis",
+    B: "Simple common cold",
+    C: "Food poisoning"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "A cough lasting three weeks or more, especially with weight loss, night sweats, and fever, is suggestive of pulmonary tuberculosis and should be investigated.",
+  rationalesIncorrect: {
+    B: "Simple common cold: A common cold usually resolves within a short period and does not usually cause weight loss and night sweats.",
+    C: "Food poisoning: Food poisoning usually presents with vomiting, diarrhoea, and abdominal pain, not chronic cough."
+  }
+},
+
+{
+  question: "A Community Health Officer wants to trace children who have missed their scheduled immunisations. Which record will be most useful?",
+  options: {
+    A: "Defaulter register or child welfare clinic register",
+    B: "Staff attendance book",
+    C: "Drug stock card"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "A defaulter register or child welfare clinic register helps identify children who have missed immunisations so they can be followed up.",
+  rationalesIncorrect: {
+    B: "Staff attendance book: This records staff reporting to work, not children’s immunisation status.",
+    C: "Drug stock card: This monitors drug supplies and does not show immunisation defaulters."
+  }
+},
+
+{
+  question: "Two health workers are quarrelling over the duty roster at a health centre. What should the nurse manager do first?",
+  options: {
+    A: "Listen to both sides and guide them to discuss the issue calmly.",
+    B: "Suspend both workers immediately without hearing them.",
+    C: "Ignore the issue because conflict is normal at work."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Conflict resolution begins with listening, understanding the problem, and encouraging calm discussion. This helps the parties find a fair solution.",
+  rationalesIncorrect: {
+    B: "Suspend both workers immediately without hearing them: This is unfair and may worsen the conflict.",
+    C: "Ignore the issue because conflict is normal at work: Ignoring conflict can affect teamwork and service delivery."
+  }
+},
+
+{
+  question: "Clients frequently complain that waiting time at the clinic is too long. What should the nurse manager do as part of quality improvement?",
+  options: {
+    A: "Review the patient flow process and identify causes of delay.",
+    B: "Tell clients to stop complaining because the clinic is busy.",
+    C: "Close the clinic early to reduce the number of clients seen."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Quality improvement involves identifying problems, finding causes, and making changes to improve service delivery. Reviewing patient flow can help reduce waiting time.",
+  rationalesIncorrect: {
+    B: "Tell clients to stop complaining because the clinic is busy: This is poor client care and does not solve the problem.",
+    C: "Close the clinic early to reduce the number of clients seen: This will reduce access to care and worsen client dissatisfaction."
+  }
+},
+
+{
+  question: "During school inspection, a nurse observes that several pupils have itchy skin rashes between their fingers. What condition should the nurse suspect?",
+  options: {
+    A: "Scabies",
+    B: "Measles",
+    C: "Ringworm of the scalp"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Scabies commonly causes intense itching and rashes in areas such as between the fingers, wrists, and skin folds. It can spread easily among school children.",
+  rationalesIncorrect: {
+    B: "Measles: Measles usually presents with fever, cough, conjunctivitis, and generalized rash, not mainly itchy rashes between the fingers.",
+    C: "Ringworm of the scalp: This affects the scalp and may cause hair loss, not mainly rashes between the fingers."
+  }
+},
+
+{
+  question: "During a home visit, a nurse notices that an elderly woman who has poor vision often trips over loose mats in the room. What is the best nursing action?",
+  options: {
+    A: "Educate the family to remove hazards and improve safety in the home.",
+    B: "Advise the woman to stop walking completely.",
+    C: "Tell the family that falls are unavoidable in old age."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Older adults are at risk of falls. Removing loose mats, improving lighting, and arranging furniture safely can help prevent injuries.",
+  rationalesIncorrect: {
+    B: "Advise the woman to stop walking completely: This may reduce mobility and independence. Safe movement should be encouraged.",
+    C: "Tell the family that falls are unavoidable in old age: Falls can often be prevented through safety measures."
+  }
+},
+
+{
+  question: "A CHPS compound targeted 250 children for Vitamin A supplementation but reached 225 children. What was the coverage?",
+  options: {
+    A: "80%",
+    B: "90%",
+    C: "100%"
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Coverage is calculated by dividing the number reached by the target population and multiplying by 100. Therefore, 225 divided by 250 multiplied by 100 equals 90%.",
+  rationalesIncorrect: {
+    A: "80%: This is lower than the actual coverage.",
+    C: "100%: This would mean all 250 targeted children were reached, but only 225 were reached."
+  }
+},
+
+{
+  question: "Which of the following is the best example of a SMART objective for a community health programme?",
+  options: {
+    A: "To improve health in the community soon.",
+    B: "To immunise 90% of children under one year in the community by December 2026.",
+    C: "To make all people healthy and happy."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "A SMART objective is specific, measurable, achievable, relevant, and time-bound. This objective states what will be done, the target group, the percentage to achieve, and the deadline.",
+  rationalesIncorrect: {
+    A: "To improve health in the community soon: This is vague and does not state a measurable target.",
+    C: "To make all people healthy and happy: This is unrealistic and not measurable."
+  }
+},
+
+{
+  question: "After heavy rains, a community’s water source becomes contaminated. Which health education message is most appropriate to prevent diarrhoeal diseases?",
+  options: {
+    A: "Boil or treat drinking water and wash hands with soap.",
+    B: "Drink the water only when it looks clear.",
+    C: "Add sugar to the water before drinking."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Contaminated water can spread diarrhoeal diseases. Boiling or treating water and handwashing with soap help prevent infection.",
+  rationalesIncorrect: {
+    B: "Drink the water only when it looks clear: Clear water can still contain germs.",
+    C: "Add sugar to the water before drinking: Sugar does not kill disease-causing organisms."
+  }
+},
+
+{
+  question: "A pregnant woman tests positive for HIV during antenatal care. What is the most appropriate nursing action?",
+  options: {
+    A: "Link her to PMTCT services and support initiation of appropriate care.",
+    B: "Advise her not to attend antenatal clinic again.",
+    C: "Tell her to stop all plans for delivery."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "PMTCT services help reduce the risk of mother-to-child transmission of HIV. The woman should receive counselling, treatment, follow-up, and support for safe pregnancy and delivery care.",
+  rationalesIncorrect: {
+    B: "Advise her not to attend antenatal clinic again: This is dangerous because she needs continued antenatal and HIV care.",
+    C: "Tell her to stop all plans for delivery: She still needs safe delivery planning and professional support."
+  }
+},
+
+{
+  question: "During a home visit, a nurse places her nursing bag directly on the client’s bed. What principle has been violated?",
+  options: {
+    A: "Infection prevention principle",
+    B: "Health education principle",
+    C: "Referral principle"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The nursing bag should not be placed on the client’s bed because it can transfer microorganisms. Bag technique is used to prevent the spread of infection.",
+  rationalesIncorrect: {
+    B: "Health education principle: The issue here is not teaching but infection prevention.",
+    C: "Referral principle: Referral involves sending a client for further care, which is not the issue in this scenario."
+  }
+},
+
+{
+  question: "A nurse manager assigns a newly posted nurse to perform a procedure she has not been trained to do. Which management principle is being ignored?",
+  options: {
+    A: "Delegation according to competence",
+    B: "Financial management",
+    C: "Community participation"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Tasks should be delegated based on the staff member’s knowledge, skill, training, and competence. Assigning an untrained nurse to perform a procedure may endanger clients.",
+  rationalesIncorrect: {
+    B: "Financial management: This concerns the use and control of funds, not assigning clinical tasks.",
+    C: "Community participation: This involves involving community members in health activities, not staff assignment."
+  }
+},
+
+{
+  question: "A woman returns to the clinic two weeks after IUCD insertion complaining of severe lower abdominal pain and foul-smelling vaginal discharge. What should the nurse do?",
+  options: {
+    A: "Refer her for immediate assessment and management.",
+    B: "Reassure her that all IUCD users experience this.",
+    C: "Tell her to wait until her next scheduled visit."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Severe lower abdominal pain and foul-smelling discharge after IUCD insertion may suggest infection or another complication. She needs urgent assessment.",
+  rationalesIncorrect: {
+    B: "Reassure her that all IUCD users experience this: These are not normal expected symptoms and should not be ignored.",
+    C: "Tell her to wait until her next scheduled visit: Delaying care may worsen the condition."
+  }
+},
+
+{
+  question: "A health worker notices that cases of suspected meningitis in a district have increased above the expected level within two weeks. This situation is best described as:",
+  options: {
+    A: "Epidemic occurrence",
+    B: "Sporadic occurrence",
+    C: "Endemic stability"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "An epidemic occurs when the number of cases of a disease rises above the expected level in a particular area and time period.",
+  rationalesIncorrect: {
+    B: "Sporadic occurrence: Sporadic means occasional or irregular cases, not a sudden increase above the expected level.",
+    C: "Endemic stability: Endemic means a disease is consistently present at expected levels in a population."
+  }
+},
+{
+  question: "During outreach, a nurse finds that the Vaccine Vial Monitor on an unopened vaccine vial has its inner square the same colour as the outer circle. What should the nurse do?",
+  options: {
+    A: "Use it quickly before the session ends.",
+    B: "Discard it and do not use it.",
+    C: "Place it in ice water to restore potency."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "When the inner square of the VVM is the same colour as or darker than the outer circle, the vaccine has been exposed to excessive heat and should not be used.",
+  rationalesIncorrect: {
+    A: "Use it quickly before the session ends: A damaged vaccine should not be used, even if the session is ongoing.",
+    C: "Place it in ice water to restore potency: Once vaccine potency is lost, it cannot be restored by cooling."
+  }
+},
+
+{
+  question: "A breastfeeding mother is 7 months postpartum. Her menses has not returned and she breastfeeds frequently. She wants to rely on LAM. What is the best advice?",
+  options: {
+    A: "LAM is no longer reliable because the baby is older than 6 months.",
+    B: "LAM remains effective as long as menstruation has not returned.",
+    C: "LAM is effective until the child starts walking."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "LAM is reliable only when the baby is less than 6 months old, the mother is amenorrhoeic, and breastfeeding is exclusive or nearly exclusive. Once the baby is older than 6 months, another method should be used.",
+  rationalesIncorrect: {
+    B: "LAM remains effective as long as menstruation has not returned: This is incomplete because the age of the baby also matters.",
+    C: "LAM is effective until the child starts walking: Walking has nothing to do with the effectiveness of LAM."
+  }
+},
+
+{
+  question: "A 39-year-old woman who smokes heavily requests combined oral contraceptive pills. What should the nurse do?",
+  options: {
+    A: "Give the pills because she has the right to choose.",
+    B: "Counsel her on safer alternatives such as IUCD or progestin-only methods.",
+    C: "Tell her that all contraceptive methods are unsafe for her."
+  },
+  correctAnswer: "B",
+  rationaleCorrect: "Combined oral contraceptives contain oestrogen, which increases cardiovascular risk in older women who smoke heavily. The nurse should respect her choice but guide her toward safer methods.",
+  rationalesIncorrect: {
+    A: "Give the pills because she has the right to choose: Client choice is important, but informed choice must include safety screening.",
+    C: "Tell her that all contraceptive methods are unsafe for her: This is wrong. She can still use safer contraceptive methods."
+  }
+},
+
+{
+  question: "A CHO visits a home and finds that a child with diarrhoea is alert, drinks normally, has no sunken eyes, and the skin pinch returns immediately. What is the best management?",
+  options: {
+    A: "Give ORS at home, continue feeding, and educate the mother on danger signs.",
+    B: "Start IV fluids immediately.",
+    C: "Give antibiotics and stop breastfeeding for 24 hours."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The child has no signs of dehydration. The correct management is home care with ORS, continued feeding, zinc where appropriate, and education on when to return.",
+  rationalesIncorrect: {
+    B: "Start IV fluids immediately: IV fluids are not needed when there is no dehydration.",
+    C: "Give antibiotics and stop breastfeeding for 24 hours: Antibiotics are not routinely needed, and breastfeeding should continue."
+  }
+},
+
+{
+  question: "A health worker plans to reduce malaria by distributing mosquito nets only to households close to the clinic because they are easier to reach. Which public health principle is being violated?",
+  options: {
+    A: "Equity",
+    B: "Confidentiality",
+    C: "Authority"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Equity means services should be distributed fairly according to need. Providing nets only to easily accessible households excludes people who may also be at risk.",
+  rationalesIncorrect: {
+    B: "Confidentiality: Confidentiality is about protecting client information, not fair distribution of services.",
+    C: "Authority: Authority refers to power or responsibility to act, not fairness in service delivery."
+  }
+},
+
+{
+  question: "A nurse manager notices that immunisation coverage is high, but many children are receiving vaccines later than the recommended ages. Which indicator is most affected?",
+  options: {
+    A: "Timeliness of immunisation",
+    B: "Vaccine potency",
+    C: "Staff punctuality"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "High coverage means many children eventually receive the vaccine, but late vaccination affects timeliness. Timely vaccination protects children when they are most vulnerable.",
+  rationalesIncorrect: {
+    B: "Vaccine potency: Vaccine potency refers to the strength or effectiveness of the vaccine, not the age at which it is given.",
+    C: "Staff punctuality: Staff punctuality may affect service delivery, but the problem described is late vaccination."
+  }
+},
+
+{
+  question: "During a community meeting, a nurse allows only the assemblyman to speak and ignores women, youth, and minority groups. Which weakness is most likely to affect the programme?",
+  options: {
+    A: "Poor representation of community views",
+    B: "Excessive health education",
+    C: "Overuse of epidemiology"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Community participation should involve different groups in the community. If only one leader speaks, the programme may miss the real needs and opinions of other groups.",
+  rationalesIncorrect: {
+    B: "Excessive health education: The issue is not too much health education but poor inclusion.",
+    C: "Overuse of epidemiology: Epidemiology is not the problem in this scenario."
+  }
+},
+
+{
+  question: "A health centre has enough vaccines, staff, and logistics, but clients still complain that nurses speak harshly to them. Which aspect of quality care is mainly affected?",
+  options: {
+    A: "Interpersonal relationship",
+    B: "Technical competence",
+    C: "Cold chain maintenance"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Respectful communication and good staff-client relationships are important aspects of quality care. Even when supplies are available, poor attitude can reduce client satisfaction and service use.",
+  rationalesIncorrect: {
+    B: "Technical competence: Technical competence refers to the ability to perform clinical tasks correctly.",
+    C: "Cold chain maintenance: Cold chain maintenance concerns vaccine storage, not staff attitude."
+  }
+},
+
+{
+  question: "A mother says she stopped giving exclusive breastfeeding because her baby cried often and she believed the breast milk was not enough. What is the best nursing response?",
+  options: {
+    A: "Assess breastfeeding technique and counsel her on signs of adequate breast milk intake.",
+    B: "Tell her to stop breastfeeding completely and use formula only.",
+    C: "Blame her for not following health education."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Frequent crying does not always mean breast milk is insufficient. The nurse should assess attachment, positioning, feeding frequency, and the baby’s weight gain before giving guidance.",
+  rationalesIncorrect: {
+    B: "Tell her to stop breastfeeding completely and use formula only: This may reduce breast milk production and deprive the baby of the benefits of breastfeeding.",
+    C: "Blame her for not following health education: Blaming discourages the mother and does not solve the problem."
+  }
+},
+
+{
+  question: "A nurse is asked to evaluate whether a health education programme on handwashing has reduced diarrhoea cases in a school. Which data will best show the outcome?",
+  options: {
+    A: "Number of diarrhoea cases before and after the programme",
+    B: "Number of posters pasted on the school wall",
+    C: "Number of teachers who attended the launch"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Outcome evaluation checks whether the programme achieved its intended effect. Comparing diarrhoea cases before and after the intervention helps show whether the programme made a difference.",
+  rationalesIncorrect: {
+    B: "Number of posters pasted on the school wall: This measures activity, not outcome.",
+    C: "Number of teachers who attended the launch: This measures participation, not health impact."
+  }
+},
+
+{
+  question: "A client on tuberculosis treatment says he feels better after two weeks and wants to stop the drugs. What should the nurse emphasize?",
+  options: {
+    A: "He must complete the full treatment course even if symptoms improve.",
+    B: "He should stop the drugs and restart only if cough returns.",
+    C: "He should take the drugs only when he feels weak."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Stopping TB treatment early can lead to treatment failure, relapse, and drug resistance. The client must complete the full prescribed course.",
+  rationalesIncorrect: {
+    B: "He should stop the drugs and restart only if cough returns: This can lead to drug resistance and continued transmission.",
+    C: "He should take the drugs only when he feels weak: TB treatment must be taken regularly as prescribed, not based on symptoms."
+  }
+},
+
+{
+  question: "A nurse is planning a programme for older adults. She focuses only on treating diseases and ignores exercise, social support, nutrition, and fall prevention. What is the main weakness of the plan?",
+  options: {
+    A: "It is not holistic.",
+    B: "It is too community-based.",
+    C: "It uses too many preventive measures."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Care of older adults should address physical, psychological, social, nutritional, and safety needs. Focusing only on disease treatment ignores important aspects of healthy ageing.",
+  rationalesIncorrect: {
+    B: "It is too community-based: The problem is not that it is community-based; community care is important for older adults.",
+    C: "It uses too many preventive measures: The plan actually lacks important preventive measures."
+  }
+},
+
+{
+  question: "A health worker records many malaria cases from one village but does not record age, sex, date of onset, or location within the village. What will be most affected?",
+  options: {
+    A: "Ability to describe the disease pattern properly",
+    B: "Ability to administer antimalarial drugs",
+    C: "Ability to count the number of tablets in stock"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Descriptive epidemiology depends on person, place, and time. Without age, sex, date, and location, it becomes difficult to understand the pattern of disease and plan control measures.",
+  rationalesIncorrect: {
+    B: "Ability to administer antimalarial drugs: Treatment can still be given, but disease analysis will be weak.",
+    C: "Ability to count the number of tablets in stock: Stock counting is a logistics activity and does not depend on disease pattern data."
+  }
+},
+
+{
+  question: "A nurse wants to introduce a new health programme in a community. She first meets the chief, elders, women’s leader, youth leader, and assembly member to explain the programme and seek their support. Which step is she performing?",
+  options: {
+    A: "Community entry",
+    B: "Evaluation",
+    C: "Termination"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Community entry involves approaching community leaders and key groups to introduce oneself, explain the purpose of the programme, and seek permission and support.",
+  rationalesIncorrect: {
+    B: "Evaluation: Evaluation is done after implementation to assess whether objectives were achieved.",
+    C: "Termination: Termination is the ending phase of a programme or relationship, not the beginning."
+  }
+},
+{
+  question: "During a home visit, a Public Health Nurse finds that a client with pulmonary tuberculosis sleeps in the same poorly ventilated room with three children. What should the nurse do first?",
+  options: {
+    A: "Educate the family on cough etiquette, ventilation, and treatment adherence.",
+    B: "Ask the family to send the client away from the house immediately.",
+    C: "Stop visiting the home until the client completes treatment."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Tuberculosis spreads through the air. The nurse should educate the family to improve ventilation, cover the mouth when coughing, reduce close exposure, and ensure the client takes treatment regularly.",
+  rationalesIncorrect: {
+    B: "Ask the family to send the client away from the house immediately: This is stigmatising and may discourage treatment adherence.",
+    C: "Stop visiting the home until the client completes treatment: This is unsafe because the client and family need continuous support and education."
+  }
+},
+
+{
+  question: "A Community Health Officer identifies one suspected case of neonatal tetanus in her sub-district. What is the most appropriate action?",
+  options: {
+    A: "Report the case immediately through the disease surveillance system.",
+    B: "Wait until three similar cases are seen before reporting.",
+    C: "Treat the baby at home and record it at the end of the month."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Neonatal tetanus is a priority disease and must be reported immediately. Early reporting allows investigation, response, and prevention of further cases.",
+  rationalesIncorrect: {
+    B: "Wait until three similar cases are seen before reporting: Waiting may delay public health action and increase risk to other newborns.",
+    C: "Treat the baby at home and record it at the end of the month: Monthly reporting is too late for a serious notifiable condition."
+  }
+},
+
+{
+  question: "A breastfeeding mother who delivered three weeks ago requests combined oral contraceptive pills. What is the best nursing response?",
+  options: {
+    A: "Counsel her on safer postpartum options and explain why combined pills are not preferred now.",
+    B: "Give combined pills immediately because she is breastfeeding.",
+    C: "Tell her to avoid all contraceptives until the baby is one year old."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Combined oral contraceptives contain oestrogen and are not usually preferred very early postpartum, especially during breastfeeding. The nurse should counsel her on safer suitable options.",
+  rationalesIncorrect: {
+    B: "Give combined pills immediately because she is breastfeeding: Breastfeeding does not make combined pills automatically safe in the early postpartum period.",
+    C: "Tell her to avoid all contraceptives until the baby is one year old: This is wrong because many safe postpartum family planning methods are available."
+  }
+},
+
+{
+  question: "Several diarrhoea cases are reported in a village. The nurse marks the affected households on a community map and notices that most cases are near one water source. What tool is the nurse using?",
+  options: {
+    A: "Spot map",
+    B: "Pie chart",
+    C: "Duty roster"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "A spot map shows where cases occur in a community. It helps identify patterns and possible sources of infection, such as a contaminated water source.",
+  rationalesIncorrect: {
+    B: "Pie chart: A pie chart shows proportions, not the location of cases.",
+    C: "Duty roster: A duty roster shows staff assignments, not disease distribution."
+  }
+},
+
+{
+  question: "A 3-year-old child has swelling of both feet, sparse hair, poor appetite, and flaky skin. Which nutritional condition should the nurse suspect?",
+  options: {
+    A: "Kwashiorkor",
+    B: "Rickets",
+    C: "Night blindness"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Kwashiorkor is a form of severe acute malnutrition commonly associated with bilateral pitting oedema, skin changes, hair changes, and poor appetite.",
+  rationalesIncorrect: {
+    B: "Rickets: Rickets is due to Vitamin D deficiency and commonly affects bone development.",
+    C: "Night blindness: Night blindness is an early sign of Vitamin A deficiency, not oedematous malnutrition."
+  }
+},
+
+{
+  question: "A nurse plans health education for farmers, but schedules the session during peak farming hours. Only a few people attend. What principle did the nurse fail to consider?",
+  options: {
+    A: "Choosing a convenient time for the target group.",
+    B: "Using only scientific language during teaching.",
+    C: "Giving all information in one session."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Health education should be planned at a time and place convenient for the audience. If the timing does not suit the people, attendance and participation will be poor.",
+  rationalesIncorrect: {
+    B: "Using only scientific language during teaching: Scientific language may also be a problem, but the scenario mainly shows poor timing.",
+    C: "Giving all information in one session: The issue described is low attendance due to inconvenient scheduling."
+  }
+},
+
+{
+  question: "During a sudden disease outbreak, the nurse in charge must quickly assign staff to case search, health education, and reporting. Which leadership style may be most appropriate initially?",
+  options: {
+    A: "Autocratic",
+    B: "Laissez-faire",
+    C: "Passive"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "In emergencies, quick decisions and clear instructions are needed. An autocratic or directive style may be appropriate initially to control the situation and prevent confusion.",
+  rationalesIncorrect: {
+    B: "Laissez-faire: This allows too much freedom and may delay urgent action.",
+    C: "Passive: Passive leadership is not suitable during an emergency because staff need direction."
+  }
+},
+
+{
+  question: "A woman delivers at home. Thirty minutes later, the placenta has not been delivered and she is bleeding heavily. What should the nurse do?",
+  options: {
+    A: "Initiate emergency management and arrange urgent referral.",
+    B: "Wait quietly for another two hours for the placenta to separate.",
+    C: "Give the woman food and ask her to sleep."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Retained placenta with heavy bleeding is an obstetric emergency. The nurse should act quickly, prevent shock, and arrange urgent referral to a facility where appropriate management can be given.",
+  rationalesIncorrect: {
+    B: "Wait quietly for another two hours for the placenta to separate: Waiting may lead to severe haemorrhage and death.",
+    C: "Give the woman food and ask her to sleep: This ignores a life-threatening emergency."
+  }
+},
+
+{
+  question: "A school nurse notices that a pupil with asthma frequently develops attacks after sweeping a dusty classroom. What is the best action?",
+  options: {
+    A: "Discuss environmental control measures with the school and refer the child for care.",
+    B: "Tell the child to stop attending school.",
+    C: "Punish the child for avoiding sweeping duties."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Dust can trigger asthma attacks. The nurse should help the school reduce exposure to triggers and ensure the child receives proper medical assessment and care.",
+  rationalesIncorrect: {
+    B: "Tell the child to stop attending school: This is unnecessary and affects the child’s education.",
+    C: "Punish the child for avoiding sweeping duties: This is unfair and ignores the child’s health condition."
+  }
+},
+
+{
+  question: "A nurse prepares a monthly report but notices that the tally sheet total does not match the register entries. What should she do first?",
+  options: {
+    A: "Verify the figures using the original records before submitting the report.",
+    B: "Submit the report quickly because the deadline is near.",
+    C: "Guess the correct figure based on last month’s report."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Accurate health information is important for planning and decision-making. When figures do not match, the nurse should check the source documents and correct errors before submission.",
+  rationalesIncorrect: {
+    B: "Submit the report quickly because the deadline is near: Timeliness is important, but inaccurate reports can mislead decision-making.",
+    C: "Guess the correct figure based on last month’s report: Guessing is poor documentation practice and can produce false data."
+  }
+},
+
+{
+  question: "A 17-year-old girl comes privately to the clinic requesting family planning counselling. What should the nurse do?",
+  options: {
+    A: "Provide respectful counselling and maintain confidentiality within professional limits.",
+    B: "Send her away because adolescents should not discuss contraception.",
+    C: "Announce her request to other staff to discourage her."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Adolescents need accurate reproductive health information and respectful care. Confidential counselling helps prevent unintended pregnancy and unsafe practices, while professional safeguarding concerns should be handled appropriately.",
+  rationalesIncorrect: {
+    B: "Send her away because adolescents should not discuss contraception: This can increase the risk of unintended pregnancy and unsafe sexual behaviour.",
+    C: "Announce her request to other staff to discourage her: This violates privacy and may prevent adolescents from seeking help."
+  }
+},
+
+{
+  question: "A nurse designs a malaria programme alone and only invites community members on the launch day to listen to instructions. Which type of participation is this closest to?",
+  options: {
+    A: "Passive participation",
+    B: "Active community participation",
+    C: "Community ownership"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Passive participation occurs when people are only informed about decisions already made. True participation involves the community in identifying problems, planning, implementing, and evaluating activities.",
+  rationalesIncorrect: {
+    B: "Active community participation: This would involve community members in decision-making and action.",
+    C: "Community ownership: Ownership means the community feels responsible for and actively supports the programme."
+  }
+},
+
+{
+  question: "A community has a large refuse dump that is attracting flies and rodents. The Public Health Nurse wants a sustainable solution. Who should she involve?",
+  options: {
+    A: "Environmental health officers, local assembly, and community members.",
+    B: "Only the mothers who attend child welfare clinic.",
+    C: "Only the pharmacy staff at the health centre."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Environmental sanitation problems require intersectoral collaboration. Environmental health officers, local government, and community members must work together for a sustainable solution.",
+  rationalesIncorrect: {
+    B: "Only the mothers who attend child welfare clinic: Mothers are important, but the problem requires broader community and local authority involvement.",
+    C: "Only the pharmacy staff at the health centre: Pharmacy staff do not have the main responsibility for community waste management."
+  }
+},
+
+{
+  question: "After flooding, many families are displaced into a temporary camp. What should be the nurse’s priority public health concern?",
+  options: {
+    A: "Safe water, sanitation, and prevention of communicable diseases.",
+    B: "Organising entertainment for the displaced families.",
+    C: "Teaching advanced computer skills to children in the camp."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Flooding and overcrowding increase the risk of diarrhoeal diseases, malaria, respiratory infections, and other communicable diseases. Safe water, sanitation, hygiene, and disease surveillance are priorities.",
+  rationalesIncorrect: {
+    B: "Organising entertainment for the displaced families: Psychosocial support is important, but disease prevention and basic needs come first.",
+    C: "Teaching advanced computer skills to children in the camp: This is not an immediate public health priority after flooding."
+  }
+},
+
+{
+  question: "A CHPS compound frequently runs out of ORS because the staff do not update their stock cards. What should the supervisor do?",
+  options: {
+    A: "Train staff on stock recording and monitor logistics management.",
+    B: "Blame the district store for every shortage.",
+    C: "Stop treating diarrhoea cases at the CHPS compound."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Proper stock management helps prevent shortages. Staff should update stock cards, monitor consumption, and request supplies on time.",
+  rationalesIncorrect: {
+    B: "Blame the district store for every shortage: The district store may contribute, but poor stock recording at the facility is also a problem.",
+    C: "Stop treating diarrhoea cases at the CHPS compound: This would deny clients essential care."
+  }
+},
+
+{
+  question: "A health worker accidentally gets pricked by a used needle after giving an injection. What should be done first?",
+  options: {
+    A: "Wash the area immediately with soap and running water.",
+    B: "Suck the wound to remove the blood.",
+    C: "Hide the incident to avoid blame."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "After a needle-stick injury, the first action is immediate washing with soap and running water. The incident should then be reported for risk assessment and appropriate post-exposure management.",
+  rationalesIncorrect: {
+    B: "Suck the wound to remove the blood: This is unsafe and not recommended.",
+    C: "Hide the incident to avoid blame: Reporting is necessary for proper care and prevention of complications."
+  }
+},
+
+{
+  question: "A nurse wants to measure whether mothers understand the danger signs in newborns after health education. Which method is best?",
+  options: {
+    A: "Ask mothers to mention the danger signs in their own words.",
+    B: "Count the number of chairs used during the session.",
+    C: "Check whether the nurse arrived early for the session."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "To assess understanding, the nurse should ask learners to explain or demonstrate what they have learned. This shows whether the message was understood.",
+  rationalesIncorrect: {
+    B: "Count the number of chairs used during the session: This may show attendance but not understanding.",
+    C: "Check whether the nurse arrived early for the session: This measures punctuality, not learning."
+  }
+},
+
+{
+  question: "A community health team provides free screening for hypertension but does not explain results or link clients with high readings to care. What is the main weakness of the programme?",
+  options: {
+    A: "Lack of follow-up and continuity of care.",
+    B: "Excessive community participation.",
+    C: "Too much emphasis on referral."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Screening is useful only when abnormal findings are explained and clients are linked to care. Without counselling, referral, and follow-up, the programme may not improve health outcomes.",
+  rationalesIncorrect: {
+    B: "Excessive community participation: The problem is not too much participation; it is poor follow-up after screening.",
+    C: "Too much emphasis on referral: The scenario shows too little referral and follow-up, not too much."
+  }
+},
+{
+  question: "A Public Health Nurse visits a community where many households dispose of faeces in nearby bushes. Which intervention should be prioritised?",
+  options: {
+    A: "Educate households and collaborate with community leaders on latrine construction and use.",
+    B: "Arrest all household heads who do not have toilets.",
+    C: "Stop all child welfare services until every house builds a toilet."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Open defecation increases the risk of diarrhoeal diseases and other infections. The nurse should use health education and community mobilisation to promote safe sanitation practices.",
+  rationalesIncorrect: {
+    B: "Arrest all household heads who do not have toilets: Punishment alone may create resistance and does not promote sustainable behaviour change.",
+    C: "Stop all child welfare services until every house builds a toilet: This would deny children essential preventive services."
+  }
+},
+
+{
+  question: "A nurse notices that mothers come late for postnatal care because they believe the baby should not be taken outside before naming. What should the nurse do?",
+  options: {
+    A: "Respectfully engage families and explain the importance of early postnatal care.",
+    B: "Insult the belief and tell mothers they are putting their babies at risk.",
+    C: "Refuse to attend to mothers who report late."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Cultural beliefs should be handled with respect. The nurse should educate families on the importance of early postnatal care while working with community leaders to reduce harmful delays.",
+  rationalesIncorrect: {
+    B: "Insult the belief and tell mothers they are putting their babies at risk: This may create resistance and reduce trust in health workers.",
+    C: "Refuse to attend to mothers who report late: This is unethical and may worsen maternal and newborn outcomes."
+  }
+},
+
+{
+  question: "A health worker is planning an outreach clinic in a remote village. Which factor is most important to consider first?",
+  options: {
+    A: "The health needs and accessibility challenges of the community.",
+    B: "The personal convenience of the health worker only.",
+    C: "The number of chairs available at the health centre."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Outreach services are planned to improve access for underserved communities. The nurse should consider the health needs, distance, transport difficulties, and population to be served.",
+  rationalesIncorrect: {
+    B: "The personal convenience of the health worker only: Staff convenience matters, but community need is the priority.",
+    C: "The number of chairs available at the health centre: This is not the main factor when planning outreach to a remote community."
+  }
+},
+
+{
+  question: "During antenatal clinic, a pregnant woman is found to have severe palmar pallor and dizziness. What should the nurse do?",
+  options: {
+    A: "Refer her for further assessment and management.",
+    B: "Tell her to eat more fruits and return after delivery.",
+    C: "Reassure her that pallor is normal in pregnancy."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Severe pallor and dizziness may indicate significant anaemia, which can endanger both mother and baby. The woman needs further assessment and treatment.",
+  rationalesIncorrect: {
+    B: "Tell her to eat more fruits and return after delivery: This delays care. Severe anaemia requires prompt assessment and management.",
+    C: "Reassure her that pallor is normal in pregnancy: Severe pallor is not normal and should not be ignored."
+  }
+},
+
+{
+  question: "A community volunteer reports that a child has fever and a generalised rash. The child also has cough and red eyes. What should the nurse suspect?",
+  options: {
+    A: "Measles",
+    B: "Scabies",
+    C: "Hookworm infestation"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Fever, generalised rash, cough, and red eyes are suggestive of measles. The case should be assessed, managed, and reported according to disease surveillance guidelines.",
+  rationalesIncorrect: {
+    B: "Scabies: Scabies causes itchy skin rashes, commonly between fingers and skin folds, not fever with cough and red eyes.",
+    C: "Hookworm infestation: Hookworm usually causes anaemia and abdominal symptoms, not fever with generalised rash."
+  }
+},
+
+{
+  question: "A nurse manager notices that a staff member often comes late but performs well when present. What is the best management action?",
+  options: {
+    A: "Discuss the lateness privately and agree on corrective measures.",
+    B: "Ignore the lateness because the staff performs well.",
+    C: "Shame the staff during morning devotion."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Good management corrects poor behaviour while maintaining respect. Private discussion helps identify reasons for lateness and agree on ways to improve punctuality.",
+  rationalesIncorrect: {
+    B: "Ignore the lateness because the staff performs well: Lateness affects teamwork and service delivery and should be addressed.",
+    C: "Shame the staff during morning devotion: Public embarrassment is unprofessional and can reduce morale."
+  }
+},
+
+{
+  question: "A mother brings a 6-week-old baby for immunisation. The baby has mild cough but no fever or danger signs. What should the nurse do?",
+  options: {
+    A: "Immunise the baby as scheduled.",
+    B: "Postpone all vaccines until the cough stops completely.",
+    C: "Give only Vitamin A and ask the mother to return next year."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Mild illness without danger signs is not usually a reason to postpone immunisation. Giving vaccines on time protects the child from preventable diseases.",
+  rationalesIncorrect: {
+    B: "Postpone all vaccines until the cough stops completely: Unnecessary postponement can lead to missed immunisation.",
+    C: "Give only Vitamin A and ask the mother to return next year: This is inappropriate for a 6-week-old immunisation visit."
+  }
+},
+
+{
+  question: "During a home visit, a nurse sees expired medicines mixed with current medicines in a client’s room. What should she do?",
+  options: {
+    A: "Educate the family on safe medicine storage and disposal.",
+    B: "Tell the family to use the expired medicines first.",
+    C: "Ignore it because medicine storage is not a community health issue."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Expired medicines may be ineffective or harmful. The nurse should teach the family how to separate, store, and safely dispose of medicines.",
+  rationalesIncorrect: {
+    B: "Tell the family to use the expired medicines first: Expired medicines should not be used.",
+    C: "Ignore it because medicine storage is not a community health issue: Safe medicine use is part of health education and prevention."
+  }
+},
+
+{
+  question: "A health centre receives many complaints about lack of privacy during family planning counselling. What is the most appropriate quality improvement action?",
+  options: {
+    A: "Arrange a private counselling area and ensure confidential discussions.",
+    B: "Stop providing family planning services.",
+    C: "Counsel all clients together to save time."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Family planning counselling requires privacy and confidentiality. A private space helps clients speak freely and make informed decisions.",
+  rationalesIncorrect: {
+    B: "Stop providing family planning services: This would deny clients an essential reproductive health service.",
+    C: "Counsel all clients together to save time: Group education may be useful, but individual counselling needs privacy."
+  }
+},
+
+{
+  question: "A Public Health Nurse is asked why birth and death registration is important. Which response is best?",
+  options: {
+    A: "It provides vital statistics for planning health and social services.",
+    B: "It is done only to increase government revenue.",
+    C: "It is useful only when families travel abroad."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Birth and death registration provides data that help in population estimates, health planning, resource allocation, and monitoring mortality patterns.",
+  rationalesIncorrect: {
+    B: "It is done only to increase government revenue: Revenue is not the main purpose.",
+    C: "It is useful only when families travel abroad: Registration has important national health and legal uses beyond travel."
+  }
+},
+
+{
+  question: "A nurse is educating food vendors on typhoid prevention. Which message is most appropriate?",
+  options: {
+    A: "Wash hands with soap, use safe water, and protect food from flies.",
+    B: "Add more pepper to food to kill germs.",
+    C: "Serve food quickly before customers notice contamination."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Typhoid spreads through contaminated food and water. Handwashing, safe water, proper food handling, and fly control reduce transmission.",
+  rationalesIncorrect: {
+    B: "Add more pepper to food to kill germs: Pepper does not reliably kill disease-causing organisms.",
+    C: "Serve food quickly before customers notice contamination: This is unsafe and unethical."
+  }
+},
+
+{
+  question: "A woman reports that her husband prevents her from attending antenatal clinic. What should the Public Health Nurse do?",
+  options: {
+    A: "Provide counselling and involve the husband where appropriate to support maternal care.",
+    B: "Tell the woman to secretly stop living with her husband immediately.",
+    C: "Refuse to provide care unless the husband comes first."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Male involvement can improve maternal health service use. The nurse should counsel the woman and, where safe and appropriate, engage the husband to support antenatal care.",
+  rationalesIncorrect: {
+    B: "Tell the woman to secretly stop living with her husband immediately: This may create further conflict and is not the best first nursing action.",
+    C: "Refuse to provide care unless the husband comes first: The woman has the right to receive care even if the husband is absent."
+  }
+},
+
+{
+  question: "During health education, a nurse uses complex medical terms that the community members do not understand. What communication principle has been ignored?",
+  options: {
+    A: "Use of simple and appropriate language.",
+    B: "Use of official uniform.",
+    C: "Use of written reports only."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Effective health education requires language that the audience can understand. Simple words and local examples improve learning and behaviour change.",
+  rationalesIncorrect: {
+    B: "Use of official uniform: Uniform may help identify the nurse, but it does not solve the communication problem.",
+    C: "Use of written reports only: Written reports are not the main method for community health education."
+  }
+},
+
+{
+  question: "A district records maternal deaths but does not review the causes or contributing factors. What important activity is missing?",
+  options: {
+    A: "Maternal death audit or review.",
+    B: "Staff leave scheduling.",
+    C: "Vaccine stock taking."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Maternal death review helps identify causes, delays, and system gaps that contributed to the death. This information is used to prevent future deaths.",
+  rationalesIncorrect: {
+    B: "Staff leave scheduling: This is an administrative activity and does not analyse maternal deaths.",
+    C: "Vaccine stock taking: This is a logistics activity and is unrelated to maternal death analysis."
+  }
+},
+
+{
+  question: "A client with hypertension says he stopped taking his medication because he feels well. What should the nurse explain?",
+  options: {
+    A: "Hypertension can be silent, so treatment should continue as prescribed.",
+    B: "Medication is needed only when headache is present.",
+    C: "Feeling well means the hypertension is cured permanently."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Hypertension may have no symptoms even when blood pressure is high. Stopping medication can increase the risk of stroke, heart disease, and kidney damage.",
+  rationalesIncorrect: {
+    B: "Medication is needed only when headache is present: Many people with high blood pressure do not have headache.",
+    C: "Feeling well means the hypertension is cured permanently: Hypertension is often a long-term condition requiring continuous management."
+  }
+},
+
+{
+  question: "A Public Health Nurse is planning health education on cervical cancer screening. Which group should she involve to improve acceptance in the community?",
+  options: {
+    A: "Women, men, community leaders, and health workers.",
+    B: "Only women who are already screened.",
+    C: "Only children under five years."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Acceptance of screening improves when key community groups are involved. Men and leaders can influence support, while health workers provide accurate information.",
+  rationalesIncorrect: {
+    B: "Only women who are already screened: This excludes people who may need education and encouragement.",
+    C: "Only children under five years: Children under five are not the target group for cervical cancer screening education."
+  }
+},
+
+{
+  question: "After a community health programme, the nurse compares the planned activities with what was actually done. What type of evaluation is this?",
+  options: {
+    A: "Process evaluation",
+    B: "Diagnosis",
+    C: "Prescription audit"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Process evaluation looks at whether planned activities were carried out as intended. It focuses on implementation, such as number of sessions held, attendance, and activities completed.",
+  rationalesIncorrect: {
+    B: "Diagnosis: Diagnosis identifies health problems; it is not evaluation of programme activities.",
+    C: "Prescription audit: Prescription audit reviews medication prescribing practices, not general programme implementation."
+  }
+},
 ];
