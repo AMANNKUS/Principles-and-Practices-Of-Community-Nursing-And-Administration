@@ -2527,4 +2527,167 @@ const questions = [
     C: "Prescription audit: Prescription audit reviews medication prescribing practices, not general programme implementation."
   }
 },
+{
+  question: "During community assessment, a nurse finds that most children under five have repeated episodes of diarrhoea. The community has no refuse disposal site and many households use unsafe water. What should be the nurse’s best conclusion?",
+  options: {
+    A: "The diarrhoea may be linked to poor environmental sanitation and unsafe water.",
+    B: "The children are sick because mothers are not feeding them enough meat.",
+    C: "The problem is not related to the environment."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Repeated diarrhoea in children can be associated with unsafe water, poor refuse disposal, poor hand hygiene, and poor sanitation. The nurse should link the findings and plan appropriate interventions.",
+  rationalesIncorrect: {
+    B: "The children are sick because mothers are not feeding them enough meat: Poor nutrition may affect immunity, but the scenario strongly points to environmental causes.",
+    C: "The problem is not related to the environment: Unsafe water and poor refuse disposal are major environmental risk factors for diarrhoeal diseases."
+  }
+},
+
+{
+  question: "A nurse visits a household and finds that a newborn is being kept indoors without sunlight exposure because the grandmother says sunlight is harmful. What should the nurse do?",
+  options: {
+    A: "Respectfully educate the family on safe newborn care and appropriate sunlight exposure.",
+    B: "Ignore the belief because grandmothers are difficult to convince.",
+    C: "Tell the mother to expose the baby to direct hot sunlight for the whole afternoon."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The nurse should respect family beliefs while giving correct health education. Gentle morning sunlight may be useful, but exposure should be safe and not excessive.",
+  rationalesIncorrect: {
+    B: "Ignore the belief because grandmothers are difficult to convince: Ignoring influential family members may prevent behaviour change.",
+    C: "Tell the mother to expose the baby to direct hot sunlight for the whole afternoon: Excessive sunlight can harm the newborn and cause overheating or skin injury."
+  }
+},
+
+{
+  question: "A nurse finds that community volunteers are recording household visits but not reporting danger signs identified in children. What should the nurse do?",
+  options: {
+    A: "Retrain the volunteers on danger signs, reporting, and referral procedures.",
+    B: "Stop using community volunteers permanently.",
+    C: "Allow them to continue because they are unpaid workers."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Community volunteers need continuous training and supervision. They should know danger signs and report them early to support prompt care.",
+  rationalesIncorrect: {
+    B: "Stop using community volunteers permanently: Volunteers are useful when properly trained and supervised.",
+    C: "Allow them to continue because they are unpaid workers: Being unpaid does not remove the need for accurate reporting and safe practice."
+  }
+},
+
+{
+  question: "A nurse is teaching mothers about prevention of worm infestation. Which advice is most appropriate?",
+  options: {
+    A: "Wash hands, use latrines, wear footwear, and wash fruits before eating.",
+    B: "Give antibiotics to all children every morning.",
+    C: "Avoid giving children vegetables completely."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Worm infestation can be prevented through good hygiene, safe disposal of faeces, wearing footwear, and washing food before eating.",
+  rationalesIncorrect: {
+    B: "Give antibiotics to all children every morning: Antibiotics do not prevent worm infestation and should not be misused.",
+    C: "Avoid giving children vegetables completely: Vegetables are nutritious. They should be washed properly, not avoided."
+  }
+},
+
+{
+  question: "A woman who uses injectable contraception reports irregular bleeding. She is worried that she is seriously ill. What should the nurse do first?",
+  options: {
+    A: "Assess her condition and explain that menstrual changes can occur with injectable contraceptives.",
+    B: "Tell her to stop all family planning methods immediately.",
+    C: "Accuse her of not following instructions properly."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Injectable contraceptives can cause menstrual changes, including irregular bleeding or amenorrhoea. The nurse should assess for danger signs and provide reassurance and counselling.",
+  rationalesIncorrect: {
+    B: "Tell her to stop all family planning methods immediately: Stopping may not be necessary unless assessment shows a serious problem or the client chooses another method.",
+    C: "Accuse her of not following instructions properly: This is disrespectful and does not address her concern."
+  }
+},
+
+{
+  question: "A nurse manager notices that reports are always submitted late because staff wait until the end of the month before entering data. What is the best solution?",
+  options: {
+    A: "Encourage daily recording and regular checking of registers.",
+    B: "Tell staff to estimate figures quickly at the end of the month.",
+    C: "Stop submitting reports until staff become serious."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Timely and accurate reporting depends on regular documentation. Daily recording reduces errors and makes monthly reporting easier.",
+  rationalesIncorrect: {
+    B: "Tell staff to estimate figures quickly at the end of the month: Estimation can lead to inaccurate data and poor planning.",
+    C: "Stop submitting reports until staff become serious: This will worsen reporting and affect health information management."
+  }
+},
+
+{
+  question: "A health worker discovers that a client’s HIV status was discussed openly at the nurses’ station where other clients could hear. Which ethical principle was violated?",
+  options: {
+    A: "Confidentiality",
+    B: "Justice",
+    C: "Accountability"
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Confidentiality means protecting private client information. Discussing a client’s HIV status where others can hear violates privacy and can lead to stigma.",
+  rationalesIncorrect: {
+    B: "Justice: Justice refers to fairness in care and distribution of services.",
+    C: "Accountability: Accountability means being responsible for one’s actions, but the specific ethical issue here is breach of confidentiality."
+  }
+},
+
+{
+  question: "A Community Health Nurse wants to know whether a health education session improved mothers’ knowledge on exclusive breastfeeding. What should she do?",
+  options: {
+    A: "Ask questions before and after the session to compare knowledge.",
+    B: "Count only the number of mothers who came to the session.",
+    C: "Check how many chairs were arranged for the programme."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "To know whether knowledge has improved, the nurse should assess the mothers before and after the education session. This helps evaluate the learning outcome.",
+  rationalesIncorrect: {
+    B: "Count only the number of mothers who came to the session: Attendance shows participation but does not prove that knowledge improved.",
+    C: "Check how many chairs were arranged for the programme: This is a logistical detail and does not measure learning."
+  }
+},
+{
+  question: "A Public Health Nurse notices that many mothers attend antenatal clinic only once and do not return for subsequent visits. What should be the best first action?",
+  options: {
+    A: "Find out the reasons for poor follow-up attendance.",
+    B: "Remove the names of the mothers from the antenatal register.",
+    C: "Tell the mothers they will not be attended to during delivery."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Before solving a problem, the nurse must first understand its cause. Poor antenatal follow-up may be due to distance, cost, poor staff attitude, lack of knowledge, cultural beliefs, or inconvenient clinic days.",
+  rationalesIncorrect: {
+    B: "Remove the names of the mothers from the antenatal register: This is poor record keeping and does not solve the problem.",
+    C: "Tell the mothers they will not be attended to during delivery: This is threatening and unethical. It may discourage women from seeking skilled care."
+  }
+},
+
+{
+  question: "During an outreach clinic, a nurse realizes that the number of children immunised is higher than the number of children recorded in the register. What should the nurse do?",
+  options: {
+    A: "Cross-check the tally sheet and register to identify and correct the error.",
+    B: "Submit the higher figure because it makes the coverage look better.",
+    C: "Ignore the difference because outreach sessions are usually busy."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Health data must be accurate and reliable. If the tally sheet and register do not agree, the nurse should verify the records and correct the mistake before reporting.",
+  rationalesIncorrect: {
+    B: "Submit the higher figure because it makes the coverage look better: This is false reporting and can mislead planning.",
+    C: "Ignore the difference because outreach sessions are usually busy: Busy work does not justify inaccurate documentation."
+  }
+},
+
+{
+  question: "A community member refuses to allow his wife to deliver at the health facility because he says all his children were born safely at home. What should the Community Health Nurse do?",
+  options: {
+    A: "Counsel the couple on birth preparedness and the danger signs that require skilled care.",
+    B: "Insult the husband for preventing his wife from using health services.",
+    C: "Tell the woman to ignore her husband and run away to the clinic secretly."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The nurse should use respectful counselling to help the couple understand the importance of skilled delivery, emergency planning, transport arrangements, and danger signs in pregnancy and labour.",
+  rationalesIncorrect: {
+    B: "Insult the husband for preventing his wife from using health services: This may create conflict and reduce cooperation.",
+    C: "Tell the woman to ignore her husband and run away to the clinic secretly: This may put the woman at risk of family conflict. The better approach is respectful counselling and involvement where safe."
+  }
+},
 ];
