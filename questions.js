@@ -1348,4 +1348,48 @@ const questions = [
     B: "Poor nutrition and malabsorption: These are common causes of diarrhoea and weight loss in advanced HIV disease."
   }
 },
+{
+  question: "A Community Health Officer noticed that many mothers in her CHPS zone do not attend child welfare clinic regularly. Which action would best promote community participation to improve attendance?",
+  options: {
+    A: "Organise a community durbar with opinion leaders, mothers, and volunteers to discuss the problem.",
+    B: "Report the mothers to the District Health Management Team for punishment.",
+    C: "Stop outreach services until the mothers decide to attend clinic."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Community participation means involving community members in identifying and solving their own health problems. A durbar allows mothers, leaders, volunteers, and health workers to discuss the reasons for poor attendance and agree on practical solutions together.",
+  rationalesIncorrect: {
+    B: "Report the mothers to the District Health Management Team for punishment: Punishment does not promote participation. It may create fear and reduce cooperation between the community and health workers.",
+    C: "Stop outreach services until the mothers decide to attend clinic: This would worsen access to child welfare services and may put children at risk of missing immunisation and growth monitoring."
+  }
+},
+
+{
+  question: "A 9-month-old child is brought to the health centre with diarrhoea for 3 days. The child is irritable, has sunken eyes, drinks eagerly, and the skin pinch returns slowly. What is the most appropriate management?",
+  options: {
+    A: "Give ORS, continue feeding, and give zinc tablets.",
+    B: "Give IV fluids immediately and stop feeding.",
+    C: "Give antibiotics only and ask the mother to return after one week."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "The child has signs of some dehydration. The correct management is to give oral rehydration solution, continue feeding, and give zinc tablets to reduce the duration and severity of diarrhoea.",
+  rationalesIncorrect: {
+    B: "Give IV fluids immediately and stop feeding: IV fluids are mainly used for severe dehydration. Feeding should not be stopped because the child needs nutrients and energy to recover.",
+    C: "Give antibiotics only and ask the mother to return after one week: Most childhood diarrhoea cases do not require antibiotics. The child needs rehydration and zinc immediately, not delayed care."
+  }
+},
+
+{
+  question: "During supportive supervision, a Public Health Nurse finds that a health worker has poor documentation in the child welfare register. What should the supervisor do first?",
+  options: {
+    A: "Discuss the problem with the health worker and provide guidance on proper documentation.",
+    B: "Shout at the health worker in front of clients to serve as a warning to others.",
+    C: "Remove the register from the health worker and stop child welfare services for the day."
+  },
+  correctAnswer: "A",
+  rationaleCorrect: "Supportive supervision is meant to improve performance through guidance, feedback, and joint problem-solving. The supervisor should help the health worker understand the mistake and correct it.",
+  rationalesIncorrect: {
+    B: "Shout at the health worker in front of clients to serve as a warning to others: This is not supportive supervision. It can embarrass the staff and reduce confidence and teamwork.",
+    C: "Remove the register from the health worker and stop child welfare services for the day: This would interrupt service delivery and does not solve the documentation problem."
+  }
+},
 ];
